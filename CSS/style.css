@@ -447,13 +447,15 @@ font-size: 14px;
 line-height: 16px;
 text-transform: uppercase;
 color: var(--primary-title-color);
-text-align: center;
-margin-bottom: 50px;
+text-align: start;
+margin-bottom: 20px;
 }
+
 .footer-container{
   display: flex;
   flex-direction: row;
   justify-content: start;
+  align-items: start;
 }
 
 .footer-social-item{
@@ -480,7 +482,6 @@ margin-bottom: 50px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.1);
 }
-
 
 .footer-box{
   display: flex;
