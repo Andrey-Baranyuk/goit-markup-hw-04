@@ -384,7 +384,7 @@ color: var(--accent-color);
 
 .clients-item:hover .clients-icon,
 .clients-item:focus .clients-icon {
-  fill: var(--accent-color);;
+  fill: var(--accent-color);
 }
 .clients-item:not(:last-child) {
   margin-right: 30px;
