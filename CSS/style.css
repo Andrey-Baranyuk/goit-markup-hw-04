@@ -74,7 +74,7 @@ body {
   display: flex;
 }
 
-.current{
+.header-list .header-link.current{
   color: var(--accent-color);
 }
 
